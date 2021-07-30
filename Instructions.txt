@@ -1,0 +1,13 @@
+(1) Uplaod the ipynub file 
+(2) Upload the train.csv file
+(3) Run 
+
+That is what I have done
+
+Project_Final_NB_RF is for BOW+Naive Bayes Classifer and 
+BOW+Random Forest Classifer
+
+Word2Vec_Final is for BOW+Word2Vec+Random Forest Classifier
+
+Thanks!
+ 
